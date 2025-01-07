@@ -15,7 +15,15 @@ When you run your program, the output should be a scatterplot with five clusters
 <b>Analyze</b> When you have successfully developed an unsupervised learning model, use the scatterplot to answer the following questions:
 
 1. Develop a name for each customer group based on the information from the graph. For example, one group might be called “Frugal” while another might be called “Shopaholic.” Explain your reasoning for each label.
+Low income, high spending: Impulse shoppers
+Low income, low spending: Budget shoppers
+Medium income, medium spending: Savvy shoppers
+High income, low spending: Extreme frugalists
+High income, high spending: Luxury enthusiasts
+
 
 2. What group would a customer who has a medium income and low spending habits be in?
+Budget shoppers or savvy shoppers
 
 3. Choose one cluster of interest to you. How might the marketing team approach this specific customer group?
+The marketing team could target the impulse shoppers with sales and promotions to encourage them to spend more. Large eye-catching displays and sales signs could be used to attract their attention and prompt them to make an impulse purchase.
